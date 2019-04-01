@@ -9,11 +9,15 @@
 The activity has been carried out individually by Noel Gallego Alarcón
 
 ## Source code files
-./.py: Jupyter notebook with the scraping process.
+./Assignment1_DAM19.md: contains the findings and the result to the exercices
 
-./.png: it's the picture I use for the jupyter notebook cover.
+./Screenshot.png: it's the picture I use for the jupyter notebook cover.
 
-. /assignment.xlsx: contains the dataset with the data scrapped from the web. The dataset consists in a list of the most frequent words
+. /August_Sept raw_data DAM19.xlsx: contains an spreadsheet with the raw data transformed and clean to be analize. We have added two pivot tables to get insights from the data from the web.
+
+./2018_09_18452212_log.json : contains the raw data from the September log
+
+./2018_08_18452212_log.json : contains the raw data from the August log
 
 ./requirements.txt Document with the tech dependencies of this project 
 
