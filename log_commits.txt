@@ -1,4 +1,7 @@
-*   a417324 (HEAD -> master, origin/master, origin/HEAD) recalculation ratios
+* fb5e782 (HEAD -> master, origin/master, origin/HEAD) enhancements
+* 7ac9e98 correct some errors in images
+* b0611e5 adding last log of commits
+*   a417324 recalculation ratios
 |\  
 | * 38553cc Enhacements in Readme doc
 * | 3d4b2cc recalculation of ratios
