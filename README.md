@@ -11,9 +11,13 @@ The activity has been carried out individually by Noel Gallego Alarcón
 ## Source code files
 ./Assignment1_DAM19.md: contains the findings and the result to the exercices
 
-./Screenshot.png: it's the picture I use for the jupyter notebook cover.
+./table1.png: it's the picture I use for the jupyter notebook cover.
 
-. /August_Sept raw_data DAM19.xlsx: contains an spreadsheet with the raw data transformed and clean to be analize. We have added two pivot tables to get insights from the data from the web.
+./table2.png: it's the picture I use for the jupyter notebook cover.
+
+./chart.png: it's the picture I use for the jupyter notebook cover.
+
+. /August_Sept_analysis.xlsx: contains an spreadsheet with the raw data transformed and clean to be analize. We have added two pivot tables to get insights from the data from the web.
 
 ./2018_09_18452212_log.json : contains the raw data from the September log
 
@@ -21,7 +25,8 @@ The activity has been carried out individually by Noel Gallego Alarcón
 
 ./requirements.txt Document with the tech dependencies of this project 
 
-## Resources
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+./log.txt: Document with all the history of commits 
 
-Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+## Resources
+
+Techonolyg MasterClass Crash -- Barcelona Data Institute (Barcelona,2019)
