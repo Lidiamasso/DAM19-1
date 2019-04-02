@@ -29,7 +29,7 @@ Grouped by hours along the day for the two different months as showed below:
 *Insights from daily errors
 
 We notice a significant decrease in the number of errors in september, however, we should sum up these figures to see the whole picture.
-This process leads us to a reduction of 0.5% from August (1,54%) to September (1.04%), which represents an amount of 4129 errors.
+This process leads us to a reduction of 0.48% from August (1,51%) to September (1.03%), which represents an amount of 4129 errors.
 
 On the other side, the number of queries has rise from 836442 to 840414 that's why I've decided to calculate the percentage change that turn into 32.11% decrease in error 
 
