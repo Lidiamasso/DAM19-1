@@ -1,4 +1,10 @@
-* a4f095b (HEAD -> master, origin/master, origin/HEAD) adding conclusion and retouch file names
+*   a417324 (HEAD -> master, origin/master, origin/HEAD) recalculation ratios
+|\  
+| * 38553cc Enhacements in Readme doc
+* | 3d4b2cc recalculation of ratios
+|/  
+* 3324001 adding log file
+* a4f095b adding conclusion and retouch file names
 * 2a75159 adding a chart
 * d0a20ce enhancements
 * 611df43 working on the assignment
