@@ -1,0 +1,12 @@
+* a4f095b (HEAD -> master, origin/master, origin/HEAD) adding conclusion and retouch file names
+* 2a75159 adding a chart
+* d0a20ce enhancements
+* 611df43 working on the assignment
+* c712af0 adding assignment doc
+* d9249ac enhancements of the docs
+* 775ed12 screenshot
+* de177e4 Uploading raw data in logs
+* 5892a2a uploading spreadsheet
+* 062bdcf upload requirements and readme files
+* 7da54d9 Delete readme
+* 035ce96 Create readme
