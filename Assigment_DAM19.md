@@ -3,13 +3,13 @@
 #### <u> Executive Summary </u>
 
 * There's a decrease in the number of error from 
-1.54% to 1.04% in September which represents a 0.5% less.
+1.51% to 1.03% in September which represents a 0.5% less.
 
-* The error ratio is 0.5% less even with 3972 more queries per month.
+* The error ratio is 0.48% less even with 3972 more queries per month.
 
 * The ratio percentage change has increased in around 32.11%.
 
-* The members of the team has showed efficacy and a good performance in resolving the problem and all of them deserve a bonus payout.
+* The members of the team has shown efficacy and a good performance in resolving the problem and all of them deserve a bonus payout.
 
 #### <u> Case Study </u>
 
@@ -20,7 +20,7 @@ Percentages are also very useful if you wish to quantify change. In this case, t
 To measure these results, we decide to take into account an error ratio which it's calculated with: 
 
 ```
-100.0*(#_of_errors/#_of_queries)
+100.0*(queries+errors/queries)
 ```
 
 Grouped by hours along the day for the two different months as showed below:
@@ -41,11 +41,12 @@ Therefore, we consider that the teamwork has been succefull and they have perfor
 
 We conclude that a bonus payout should be provide to the team.
 
-![August](table2.png)
+<img src="August_table.png" alt="August_table.png" width="500"/>
+
 *Insights from August log*
 
+<img src="September_table.png" alt="September_table.png" width="500"/>
 
-![September](table1.png)
 *Insights from September log*
 
 
