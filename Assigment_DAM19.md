@@ -45,7 +45,7 @@ We conclude that a bonus payout should be provide to the team.
 
 *Insights from August log*
 
-<img src="September_table.png" alt="September_table.png" width="500"/>
+<img src="September_Table.png" alt="September_table.png" width="500"/>
 
 *Insights from September log*
 
