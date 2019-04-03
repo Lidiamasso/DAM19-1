@@ -1,4 +1,6 @@
-* fb5e782 (HEAD -> master, origin/master, origin/HEAD) enhancements
+* cfb42e8 (HEAD -> master, origin/master, origin/HEAD) last touch to the assigment doc
+* b771d2c log text file
+* fb5e782 enhancements
 * 7ac9e98 correct some errors in images
 * b0611e5 adding last log of commits
 *   a417324 recalculation ratios
