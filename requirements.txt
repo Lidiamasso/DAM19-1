@@ -1,0 +1,8 @@
+Technology dependencies:
+
+- Install AWSCLI to connect to S3
+- Intall Git to process all the VCS
+- Use a JSON to CSV converter
+- Create an account in Github to upload our repos
+- Account in google sheets to manipulate the data
+- Use a markdown Editor to write the Assigment.
