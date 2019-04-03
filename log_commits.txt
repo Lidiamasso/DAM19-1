@@ -1,4 +1,6 @@
-* cfb42e8 (HEAD -> master, origin/master, origin/HEAD) last touch to the assigment doc
+* 9b2a42d (HEAD -> master, origin/master, origin/HEAD) write the requirements
+* 4fad818 uploading last log text
+* cfb42e8 last touch to the assigment doc
 * b771d2c log text file
 * fb5e782 enhancements
 * 7ac9e98 correct some errors in images
